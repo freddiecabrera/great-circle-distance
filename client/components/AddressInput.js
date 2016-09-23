@@ -17,7 +17,7 @@ const AddressInput = props => (
     type='number'
     placeholder='Max Distance'
     />
-    <button type='submit' className='two columns submit-btn'>Hello</button>
+    <button type='submit' className='two columns submit-btn'>Submit</button>
   </div>
 );
 

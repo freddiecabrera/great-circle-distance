@@ -24,7 +24,7 @@ const LatLonInput = props => (
     type='number'
     placeholder='Max Distance'
     />
-    <button type='submit' className='two columns'>Hello</button>
+    <button type='submit' className='two columns'>Submit</button>
   </div>
 );
 
