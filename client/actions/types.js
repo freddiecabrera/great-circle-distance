@@ -1,0 +1,4 @@
+export const INPUT_BAR = 'INPUT_BAR';
+export const SET_ADDRESSES = 'SET_ADDRESSES';
+export const SET_FILTERED_ADDRESSES = 'SET_FILTERED_ADDRESSES';
+export const TOGGLE_CHECK = 'TOGGLE_CHECK';
